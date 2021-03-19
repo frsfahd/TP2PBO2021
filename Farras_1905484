@@ -1,0 +1,4 @@
+Saya Farras Abdulaziz El-Fahd mengerjakan TP1 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan.
+
+Untuk kesulitan, di bagian koneksi ke database agak sedikit sulit karena harus import library drivernya dari sumber eksternal, dan juga di bagian menampilkan record
+dari database ke tabel ada beberapa penyesuaian sehingga untuk update tampilannya manual menggunakan button 'refresh'. 
